@@ -11,9 +11,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/mandrita16/CatchMyType/blob/main/public/hero-image.png?raw=true" alt="CatchMyType Hero" width="600" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
-</div>
 
 <div align="center">
   <h3>🎯 <em>CatchMyType</em> 🩸</h3>
