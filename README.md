@@ -1,4 +1,4 @@
-# 🩸 CatchMyType - Smart Blood Donation Platform
+#  CatchMyType - Smart Blood Donation Platform
 
 <div align="center">
 
@@ -12,11 +12,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/srinjaykarfa/BloodLink_Hack4Bengal/blob/main/public/hero-image.png?raw=true" alt="CatchMyType Hero" width="600" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+  <img src="https://github.com/mandrita16/CatchMyType/blob/main/public/hero-image.png?raw=true" alt="CatchMyType Hero" width="600" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
 </div>
 
 <div align="center">
-  <h3>🎯 <em>Hack4Bengal 2025 Winner</em> 🏆</h3>
+  <h3>🎯 <em>CatchMyType</em> 🩸</h3>
   <p><strong>The Future of Blood Donation is Here!</strong></p>
   <p>An AI-powered, intelligent blood donation ecosystem that connects donors with recipients through cutting-edge technology and real-time matching algorithms.</p>
 </div>
@@ -460,8 +460,8 @@ npm >= 9.0.0 (or pnpm >= 8.0.0)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/srinjaykarfa/CatchMyType_Hack4Bengal.git
-cd CatchMyType_Hack4Bengal
+git clone https://github.com/mandrita16/CatchMyType
+cd CatchMyType
 
 # 2. Install dependencies (both frontend and backend)
 npm run install:all
@@ -1115,155 +1115,3 @@ We welcome contributions from the community! Here's how you can help make CatchM
    - Reference any related issues
    - Ensure all tests pass
 
-### 🏆 **Contributors Hall of Fame**
-
-<div align="center">
-
-| Team Member | Role | Contribution | GitHub |
-|-------------|------|-------------|---------|
-| **Srinjay Karfa** | 🎯 Project Lead & Frontend | Next.js, UI/UX, Architecture | [@srinjaykarfa](https://github.com/srinjaykarfa) |
-| **Sayan Duary** | 🚀 Backend Developer | Express.js, Authentication, Security | [@sayanduary](https://github.com/sayanduary) |
-| **Jaydeep Sardar** | 💾 Database Specialist | MongoDB, API Design, Data Modeling | [@jaydeepsardar](https://github.com/jaydeepsardar) |
-| **Sunava Ghosh** | 💬 Full-Stack Developer | Real-time Chat, Database Optimization | [@sunavaghosh](https://github.com/sunavaghosh) |
-
-</div>
-
----
-
-## 📞 Support & Community
-
-### 💬 **Get Help**
-
-- 📧 **Email**: [support@catchmytype.com](mailto:support@catchmytype.com)
-- 💬 **Discord**: [Join our community](https://discord.gg/catchmytype)
-- 📱 **Twitter**: [@CatchMyType](https://twitter.com/catchmytype)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/srinjaykarfa/CatchMyType_Hack4Bengal/issues)
-
-### 🌟 **Community Guidelines**
-
-- Be respectful and inclusive
-- Help others learn and grow
-- Share knowledge and experiences
-- Follow our code of conduct
-- Celebrate diversity and creativity
-
----
-
-## 📊 Project Statistics
-
-<div align="center">
-
-![GitHub Stars](https://img.shields.io/github/stars/srinjaykarfa/CatchMyType_Hack4Bengal?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/srinjaykarfa/CatchMyType_Hack4Bengal?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/srinjaykarfa/CatchMyType_Hack4Bengal?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/srinjaykarfa/CatchMyType_Hack4Bengal?style=for-the-badge)
-
-</div>
-
-### 📈 **Impact Metrics**
-
-| Metric | Current | Target 2025 |
-|--------|---------|-------------|
-| **Active Users** | 1,200+ | 50,000+ |
-| **Blood Requests Fulfilled** | 180+ | 5,000+ |
-| **Registered Donors** | 800+ | 25,000+ |
-| **Partner Hospitals** | 12+ | 200+ |
-| **Cities Covered** | 8+ | 100+ |
-| **Lives Saved** | 45+ | 2,000+ |
-
----
-
-## 🏆 Awards & Recognition
-
-<div align="center">
-
-### 🎉 **Hack4Bengal 2025 Winner** 🏆
-
-*"Best Healthcare Innovation"*
-
----
-
-### 🌟 **What Makes Us Special**
-
-> *"CatchMyType revolutionizes blood donation with AI-powered matching, making it faster and more efficient to connect donors with those in need. The platform's intelligent chat assistant and real-time coordination system set a new standard for healthcare technology."*
-> 
-> **— Hack4Bengal Judges Panel**
-
-</div>
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Team ByteBusters - CatchMyType
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
-
----
-
-## 🔗 Important Links
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_CatchMyType-red?style=for-the-badge)](http://blood-link-hack4-bengal.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/📂_GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/srinjaykarfa/CatchMyType_Hack4Bengal)
-[![API Documentation](https://img.shields.io/badge/📚_API_Docs-Postman-orange?style=for-the-badge&logo=postman)](https://documenter.getpostman.com/view/catchmytype-api)
-[![Project Demo](https://img.shields.io/badge/🎥_Demo_Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=catchmytype-demo)
-
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://github.com/srinjaykarfa/BloodLink_Hack4Bengal/blob/main/public/logo.png?raw=true" alt="CatchMyType Logo" width="100" style="border-radius: 20px;"/>
-  
-  <h2>🩸 CatchMyType - Where Technology Meets Humanity 🩸</h2>
-  
-  <p><strong>Connecting Lives • Saving Lives • Transforming Lives</strong></p>
-  
-  <p><em>Made with ❤️ and cutting-edge technology for Hack4Bengal 2025</em></p>
-  
-  <p>
-    <strong>Team ByteBusters</strong><br>
-    <em>Building the future of healthcare, one line of code at a time</em>
-  </p>
-  
-  ---
-  
-  <p>
-    <strong>⭐ If you find CatchMyType helpful, please give us a star! ⭐</strong><br>
-    <em>Your support helps us continue improving and saving more lives.</em>
-  </p>
-  
-  <p>
-    <a href="https://github.com/srinjaykarfa/CatchMyType_Hack4Bengal/stargazers">
-      <img src="https://img.shields.io/github/stars/srinjaykarfa/CatchMyType_Hack4Bengal?style=social" alt="GitHub stars">
-    </a>
-    <a href="https://github.com/srinjaykarfa/CatchMyType_Hack4Bengal/network/members">
-      <img src="https://img.shields.io/github/forks/srinjaykarfa/CatchMyType_Hack4Bengal?style=social" alt="GitHub forks">
-    </a>
-    <a href="https://twitter.com/intent/tweet?text=Check%20out%20CatchMyType%20-%20An%20amazing%20AI-powered%20blood%20donation%20platform!&url=https://github.com/srinjaykarfa/CatchMyType_Hack4Bengal">
-      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fsrinjaykarfa%2FCatchMyType_Hack4Bengal" alt="Tweet">
-    </a>
-  </p>
-  
-</div>
